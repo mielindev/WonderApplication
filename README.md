@@ -1,8 +1,14 @@
 # Overview
-The E-Commerce Platform is a comprehensive online shopping solution built with Java Spring Boot for the backend and Angular for the frontend. This project aims to provide a scalable, secure, and user-friendly platform for online retailers to manage their products, orders, and customers.
-# ShopappFrontend
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.5.
+The E-Commerce Platform is a comprehensive online shopping solution built with Java Spring Boot for the backend and Angular for the frontend. This project aims to provide a scalable, secure, and user-friendly platform for online retailers to manage their products, orders, and customers.
+# Features
+
+- User authentication and authorization
+- Product management (CRUD operations)
+- Shopping cart functionality
+- Order processing and management
+- Customer profile management
+- Responsive design for mobile and desktop
 
 ## Development server
 
